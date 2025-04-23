@@ -30,7 +30,6 @@ Volatile acidity
 Citric acid
 
 
-
 Residual sugar
 
 
